@@ -3,7 +3,7 @@ Saturday, 19 January 2019⋅08:30 – 10:00
 
 ## Checklist
 * [x] Week 01 - Linear Algebra Part 1: From vectors to matrices and how to decompose matrices
-* [ ] Week 02 - Linear Algebra Part 2: The four fundamental subspaces and the complete solution of a linear system of equations
+* [x] Week 02 - Linear Algebra Part 2: The four fundamental subspaces and the complete solution of a linear system of equations
 * [ ] Week 03 - Linear Algebra Part 3: Determinant, Eigenvalues and -vectors, Singular Value Decomposition (SVD) Learning
 * [ ] Week 04 - Linear Algebra Part 4: Projective Geometry
 * [ ] Week 05 - Multivariable Calculus Part 1: Graphing, Partial Derivatives, Gradient, Directional Derivative
