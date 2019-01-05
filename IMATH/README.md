@@ -6,7 +6,7 @@ Saturday, 19 January 2019⋅08:30 – 10:00
 * [x] Week 02 - Linear Algebra Part 2: The four fundamental subspaces and the complete solution of a linear system of equations
 * [x] Week 03 - Linear Algebra Part 3: Determinant, Eigenvalues and -vectors, Singular Value Decomposition (SVD) Learning
 * [x] Week 04 - Linear Algebra Part 4: Projective Geometry
-* [ ] Week 05 - Multivariable Calculus Part 1: Graphing, Partial Derivatives, Gradient, Directional Derivative
+* [x] Week 05 - Multivariable Calculus Part 1: Graphing, Partial Derivatives, Gradient, Directional Derivative
 * [ ] Week 06 - Multivariable Calculus Part 2: (Total) Differential, Linearisation inkl. Application, Chain Rule
 * [ ] Week 07 - Multivariable Calculus Part 3: Higher-order Partial Derivatives, Critical Points, Optimization Learning
 * [ ] Week 08 - Numerics Part 1: Sources of errors, solving linear systems using direct and iterative methods
