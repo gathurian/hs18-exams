@@ -21,7 +21,7 @@ In der Servlet-Engine gibt es den **Servlet (Controller)**, welcher **JavaBeans 
 - Verschiedene Environments
 
 ## 2. Welches ist das gängigste Pattern in einer Web Applikation?
-
+MVC
 
 ## 3. Wieso verwendet man Servlets? Zahlen Sie ein paar Vorteile, vielleicht auch Nachteile auf!
 **Vorteile**
